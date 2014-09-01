@@ -1,0 +1,19 @@
+{
+    "name": "Techdragon's Blank Aldryn Boilerplate mk1",
+    "description": "Editable Aldryn Base Frontend Setup ",
+    "version": "0.0.1",
+    "url": "https://github.com/techdragon",
+    "templates": [
+
+    ],
+    "protected": [
+
+    ],
+    "author": {
+        "name": "Dragon Development",
+        "url": "https://www.psyx.co"
+    },
+    "license": {
+        "name": "BSD"
+    }
+}
